@@ -17,3 +17,5 @@ Push - Gets changes from your local repo to your online repo
 
 Fetch - Gets changes from your remote repor to your local repo
 - `git pull origin`
+
+# Laura's notes
