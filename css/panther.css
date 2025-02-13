@@ -1,0 +1,68 @@
+p {
+    color: rgba(11, 15, 2, 0.387);
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+
+#kampala {
+    background-image: url("/imgs/Beans.jpg");
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+#Nansana {
+    background-image: url('/imgs/Maize.jpg');
+    margin-left: 19px;
+    border-radius: 20px;
+}
+
+#kawempe {
+    color: red;
+    border-style: dotted dashed solid double;
+    border-color: black;
+}
+
+#Masaka {
+    background-image: url('/imgs/G-nuts.jpg');
+    border-radius: 10px;
+}
+
+#Makindye {
+    color: blue;
+    border-style: dotted dashed solid double;
+    border-color: aqua;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+table {
+    width: 800px;
+    text-align: center;
+}
