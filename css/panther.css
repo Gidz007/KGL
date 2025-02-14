@@ -6,11 +6,10 @@ p {
 
 }
 
-
-#kampala {
-    background-image: url("/imgs/Beans.jpg");
-    border-radius: 15px;
-    margin-left: 10px;
+#Kawempe {
+    color: black;
+    margin: left;
+    border-radius: 10px;
 }
 
 #Nansana {
@@ -65,4 +64,5 @@ td {
 table {
     width: 800px;
     text-align: center;
+    table-layout: fixed;
 }
