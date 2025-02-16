@@ -1,3 +1,12 @@
-/*Documents Authre: Agustine Rothomio
-    *His is a 1990's baby
-    *He was born down town*/
+.col{
+    text-decoration: dashed;
+}
+.row, .col-lg-6, .col{
+    border-color: red;
+    border-style: ridge;
+}
+.container{
+    border-color: blue;
+    border-style: dotted;
+    block-size: 0ch;
+}
